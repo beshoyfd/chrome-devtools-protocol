@@ -19,12 +19,6 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "ext-json": "*",
-    "guzzlehttp/guzzle": "^6.3|^7.0",
-    "php": "^7.2|^8.0",
-    "symfony/filesystem": ">=2.3",
-    "symfony/process": ">=3.3",
-    "wrench/wrench": "~2.0.10"
   },
   "require-dev": {
     "php-parallel-lint/php-parallel-lint": "^1.2",
